@@ -1,0 +1,13 @@
+/target/
+/target
+
+# burpcli project artefacts (keep engagement data out of git)
+.burpcli/
+**/.burpcli/
+**/history.jsonl
+**/issues.jsonl
+**/session.json
+**/sitemap.json
+**/oob/
+**/ca/
+**/reports/
